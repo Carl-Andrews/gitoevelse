@@ -1,6 +1,15 @@
 *{
     box-sizing: border-box;
+    background-color: bisque;
 }
 h1{
     color: plum;
+}
+
+p{
+    color: blueviolet;
+}
+
+body{
+    background-color: aquamarine;
 }
